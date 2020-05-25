@@ -1,0 +1,11 @@
+pandas
+scipy
+matplotlib
+
+jupyterlab
+
+# Developer
+pytest
+flake8
+pycodestyle
+pylint
